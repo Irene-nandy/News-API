@@ -15,8 +15,8 @@ See Image description and time the news article was created.
 Click on an article and read it fully from the news source
 
 ## Behaviour Driven Development
-|  Behaviour                  |Input                |Output
-|.............................|.....................|
+|  Behaviour                  |Input                |Output                 |
+|.............................|.....................|.......................|
 |Enter NEWS                   |Displays News        |
 |View all news                |News                 |
 ## Known Debugs
