@@ -1,4 +1,4 @@
-# # Exclude virtual environment and all the compiled python files
-# virtual/
-# *.pyc
-# instance/
+# Exclude virtual environment and all the compiled python files
+virtual/
+*.pyc
+instance/
